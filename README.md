@@ -26,3 +26,7 @@ Point your camera towards a QR code, and the script will detect and open the ass
 
 Press 'q' to exit the script forcefully.
 Gracefull exit has been coded if qr code is detected.
+
+## GUI ADDON
+Simple gui add-on for with tkinter.
+use q for graceful exit
